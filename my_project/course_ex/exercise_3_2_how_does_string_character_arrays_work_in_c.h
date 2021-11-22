@@ -1,0 +1,10 @@
+//
+// Created by Marina Ionel on 01/03/2020.
+//
+
+#ifndef MY_PROJECT_EXERCISE_3_2_HOW_DOES_STRING_CHARACTER_ARRAYS_WORK_IN_C_H
+#define MY_PROJECT_EXERCISE_3_2_HOW_DOES_STRING_CHARACTER_ARRAYS_WORK_IN_C_H
+
+int exercise_3_2_how_does_string_character_arrays_work_in_c_run();
+
+#endif //MY_PROJECT_EXERCISE_3_2_HOW_DOES_STRING_CHARACTER_ARRAYS_WORK_IN_C_H
